@@ -2,7 +2,7 @@
 Significance of Data Structures in IT life Addon course for BE
 
 # Day 1
-#####/* Notes from here are borrowed */ 
+###### Notes from here are borrowed 
 Basics of C++
 1. Data Types
     * Primary : Integer character boolean floating
@@ -21,5 +21,6 @@ Basics of C++
     * Encapsulation : Adding of data, wrap things into a wrapper
     * Abstraction : Hiding data
     * Polymorphism : One entitiy doing more than one work
-    * Inheritance : Single, Multiple, Multilevel, Heirarcical
-#####/* End of borrowed notes */ 
+    * Inheritance : Single, Multiple, Multilevel, Hierarcical
+###### End of borrowed notes  
+5. [ ] Develop a simple Calculator application in C++

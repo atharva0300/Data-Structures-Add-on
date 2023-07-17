@@ -1,0 +1,3 @@
+# Ignoring the C++ Executable file
+# Do not ignore files with an extension 
+day_1/!*.*
