@@ -24,3 +24,10 @@ Basics of C++
     * Inheritance : Single, Multiple, Multilevel, Hierarcical
 ###### End of borrowed notes  
 5. [ ] Develop a simple Calculator application in C++
+
+# Day 2 
+1. Programs : 
+    * Reversing an array
+    * Calculating the sum of an array
+    * Searching a target Element on an array
+    * Sum of elements of array
